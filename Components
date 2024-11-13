@@ -1,0 +1,12 @@
+import React from "react";
+import "../App.css";.
+
+function Footer() {
+  return (
+    <footer className="App-footer">
+      <p>© 2024 한국폴리텍 춘천캠퍼스 인공지능SW융합과</p>
+    </footer>
+  );
+}
+
+export default Footer;
